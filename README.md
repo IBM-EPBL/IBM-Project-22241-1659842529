@@ -2,7 +2,7 @@
 Analytics for Hospitals' Health-Care Data
 
 
-video link
+video/demo link
 https://drive.google.com/file/d/1i3POX2LfHlpV-HAG3GsurwbAvPqSb59m/view?usp=sharing
 
 
