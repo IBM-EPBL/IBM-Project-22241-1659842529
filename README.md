@@ -1,5 +1,11 @@
 # IBM-Project-22241-1659842529
 Analytics for Hospitals' Health-Care Data
+
+
+video link
+https://drive.google.com/file/d/1i3POX2LfHlpV-HAG3GsurwbAvPqSb59m/view?usp=sharing
+
+
 Recent Covid-19 Pandemic has raised alarms over one of the most overlooked areas to focus: Healthcare
 
 
